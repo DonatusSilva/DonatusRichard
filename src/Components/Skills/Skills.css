@@ -1,0 +1,37 @@
+.skill-wrap{
+	height: 40vh;
+	background-color: #00cdac;
+	color: white;
+}
+
+.skill-contain{
+    display: flex;
+    height: 20%;
+    justify-content: center;
+    align-items: flex-start;
+}
+.skill-info{
+	height: 30vh;
+	display: flex;
+	justify-content: center;
+
+}
+.skill-list{
+	line-height: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	/*margin-left: 200px;*/
+}
+.skill-header{
+	padding-bottom: 20px;
+}
+@media only screen and (max-width: 600px){
+    .skill-wrap{
+        
+        height: 50vh;
+    }
+    .skill-list{
+    	line-height: 20px;
+    }
+
+}
