@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/donatusrichard.github.io/static/css/main.28578a97.chunk.css",
+    "main.js": "/donatusrichard.github.io/static/js/main.95288d46.chunk.js",
+    "main.js.map": "/donatusrichard.github.io/static/js/main.95288d46.chunk.js.map",
+    "runtime-main.js": "/donatusrichard.github.io/static/js/runtime-main.8a0c682a.js",
+    "runtime-main.js.map": "/donatusrichard.github.io/static/js/runtime-main.8a0c682a.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/donatusrichard.github.io/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.3ee30c62.chunk.js": "/donatusrichard.github.io/static/js/2.3ee30c62.chunk.js",
+    "static/js/2.3ee30c62.chunk.js.map": "/donatusrichard.github.io/static/js/2.3ee30c62.chunk.js.map",
+    "index.html": "/donatusrichard.github.io/index.html",
+    "precache-manifest.9b84c39e72f49b997d83b7aadaca266b.js": "/donatusrichard.github.io/precache-manifest.9b84c39e72f49b997d83b7aadaca266b.js",
+    "service-worker.js": "/donatusrichard.github.io/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/donatusrichard.github.io/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.28578a97.chunk.css.map": "/donatusrichard.github.io/static/css/main.28578a97.chunk.css.map",
+    "static/js/2.3ee30c62.chunk.js.LICENSE.txt": "/donatusrichard.github.io/static/js/2.3ee30c62.chunk.js.LICENSE.txt",
+    "static/media/BackgroundGenerator.JPG": "/donatusrichard.github.io/static/media/BackgroundGenerator.7133c479.JPG",
+    "static/media/Donatus Silva Richard-Website.pdf": "/donatusrichard.github.io/static/media/Donatus Silva Richard-Website.84accfaf.pdf",
+    "static/media/DonatusImg.jpg": "/donatusrichard.github.io/static/media/DonatusImg.41f74ff2.jpg",
+    "static/media/FaceDetectionApp.JPG": "/donatusrichard.github.io/static/media/FaceDetectionApp.556a0f10.JPG",
+    "static/media/FriendFinder.JPG": "/donatusrichard.github.io/static/media/FriendFinder.82ad5713.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a0c682a.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.3ee30c62.chunk.js",
+    "static/css/main.28578a97.chunk.css",
+    "static/js/main.95288d46.chunk.js"
+  ]
+}
