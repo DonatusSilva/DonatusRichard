@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DonatusRichard/static/css/main.2ea28df6.chunk.css",
+    "main.css": "/DonatusRichard/static/css/main.916bdb47.chunk.css",
     "main.js": "/DonatusRichard/static/js/main.2565554a.chunk.js",
     "main.js.map": "/DonatusRichard/static/js/main.2565554a.chunk.js.map",
     "runtime-main.js": "/DonatusRichard/static/js/runtime-main.035cb494.js",
@@ -9,10 +9,10 @@
     "static/js/2.3ee30c62.chunk.js": "/DonatusRichard/static/js/2.3ee30c62.chunk.js",
     "static/js/2.3ee30c62.chunk.js.map": "/DonatusRichard/static/js/2.3ee30c62.chunk.js.map",
     "index.html": "/DonatusRichard/index.html",
-    "precache-manifest.235888b91debb524827f708bf2e6fa36.js": "/DonatusRichard/precache-manifest.235888b91debb524827f708bf2e6fa36.js",
+    "precache-manifest.31f71fea6f3f006b6729f782d229a10d.js": "/DonatusRichard/precache-manifest.31f71fea6f3f006b6729f782d229a10d.js",
     "service-worker.js": "/DonatusRichard/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/DonatusRichard/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.2ea28df6.chunk.css.map": "/DonatusRichard/static/css/main.2ea28df6.chunk.css.map",
+    "static/css/main.916bdb47.chunk.css.map": "/DonatusRichard/static/css/main.916bdb47.chunk.css.map",
     "static/js/2.3ee30c62.chunk.js.LICENSE.txt": "/DonatusRichard/static/js/2.3ee30c62.chunk.js.LICENSE.txt",
     "static/media/BackgroundGenerator.JPG": "/DonatusRichard/static/media/BackgroundGenerator.0d2da44f.JPG",
     "static/media/Donatus Silva Richard-Website.pdf": "/DonatusRichard/static/media/Donatus Silva Richard-Website.84accfaf.pdf",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.035cb494.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.3ee30c62.chunk.js",
-    "static/css/main.2ea28df6.chunk.css",
+    "static/css/main.916bdb47.chunk.css",
     "static/js/main.2565554a.chunk.js"
   ]
 }
