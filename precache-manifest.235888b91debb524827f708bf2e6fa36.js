@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18baf7ebe2ef8243b9616fa7eb034775",
+    "revision": "a2d8c3e3bf0645d4e64c7a9d786f0ce8",
     "url": "/DonatusRichard/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DonatusRichard/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "c63d8016b42be5b0f4e4",
-    "url": "/DonatusRichard/static/css/main.24fd3b5c.chunk.css"
+    "revision": "f9a9e14beea098bba89a",
+    "url": "/DonatusRichard/static/css/main.2ea28df6.chunk.css"
   },
   {
     "revision": "5e1c3aa48214b2e433ae",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DonatusRichard/static/js/2.3ee30c62.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c63d8016b42be5b0f4e4",
+    "revision": "f9a9e14beea098bba89a",
     "url": "/DonatusRichard/static/js/main.2565554a.chunk.js"
   },
   {
